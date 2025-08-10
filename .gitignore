@@ -1,3 +1,5 @@
 *.nb
-pendulum-trajectories.npy
+*.csv
+*.npy
+.ipynb_checkpoints/*
 .DS_Store
