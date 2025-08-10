@@ -1,0 +1,3 @@
+*.nb
+pendulum-trajectories.npy
+.DS_Store
